@@ -2,6 +2,7 @@
 // Input: events = [[1,3,2],[4,5,2],[2,4,3]]
 // Output: 4
 // Explanation: Choose the green events, 0 and 1 for a sum of 2 + 2 = 4.
+// https://leetcode.com/contest/weekly-contest-256/problems/minimum-number-of-work-sessions-to-finish-the-tasks/    (extra question)
 
 class Solution
 {
